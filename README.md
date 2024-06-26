@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Im seoungMin
 <!--
 **msm2098/msm2098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

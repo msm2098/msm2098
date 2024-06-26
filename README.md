@@ -1,7 +1,7 @@
 <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=$name="Seoung%20Min";&fontSize=70&fontAlignY=43&animation=fadeIn&fontColor=FFFFFFFF&desc=echo&descSize=20&descAlign=9&descAlignY=9'>
 <img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=$instagram="https://www.instagram.com/workout_of_min/"&fontSize=20&fontAlignY=45&fontColor=FFFFFFFF&desc=$email=msm2098@gmail.com&descSize=20&descAlign=21&descAlignY=60&section=footer&fontAlign=38'>
 
-
+aaa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msm2098&hide=Cython&layout=normal)
 

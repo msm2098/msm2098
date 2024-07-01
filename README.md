@@ -1,7 +1,8 @@
-<img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=$name="Seoung%20Min";&fontSize=70&fontAlignY=43&animation=fadeIn&fontColor=FFFFFFFF&desc=echo&descSize=20&descAlign=9&descAlignY=9'>
-<img src='https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&text=$instagram="https://www.instagram.com/workout_of_min/"&fontSize=20&fontAlignY=45&fontColor=FFFFFFFF&desc=$email=msm2098@gmail.com&descSize=20&descAlign=21&descAlignY=60&section=footer&fontAlign=38'>
+<img src='https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=$name="Seoung%20Min";&fontSize=35&fontAlignY=43&animation=fadeIn&fontColor=FFFFFFFF&desc=echo&descSize=20&descAlign=9&descAlignY=9'>
 
-aaa
+
+안녕하세요. 원광대학교 컴퓨터공학과에 재학중인 문승민 입니다.</br>
+보안 전문가를 꿈꾸고 있습니다 :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msm2098&hide=Cython&layout=normal)
 
@@ -28,3 +29,7 @@ aaa
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
+### Contact
+    - Email : msm2098@gmail.com</br>
+    - Instagram : https://www.instagram.com/workout_of_min/
